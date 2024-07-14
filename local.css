@@ -2661,20 +2661,7 @@ font-size: 1rem;
         position: relative;
         display: block;
     }
-    #sbsr-318 .cs-picture:before {
-        /* grey box */
-        content: "";
-        width: 100%;
-        height: 100%;
-        border-radius: 0.75rem;
-        background: #bababa;
-        opacity: 1;
-        position: absolute;
-        display: block;
-        top: 0;
-        left: 0;
-        transform: rotate(15deg);
-    }
+   
     #sbsr-318 .cs-picture img {
         position: absolute;
         top: 0;
