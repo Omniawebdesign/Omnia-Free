@@ -2144,7 +2144,8 @@ background-color: #010314;
     /* margin-top pushes price information to bottom when there are different list lengths. padding-top keeps a minimum distance between price and list */
     margin-top: auto;
     /* 48px - 64px */
-    padding-top: clamp(3rem, 6vw, 4rem);
+   
+    padding-bottom: 1em;
     color: white;
     display: flex;
     align-items: baseline;
