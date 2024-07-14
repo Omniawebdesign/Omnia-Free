@@ -2145,7 +2145,7 @@ background-color: #010314;
     margin-top: auto;
     /* 48px - 64px */
    
-    padding-bottom: 1em;
+    padding-bottom: 0.5em;
     color: white;
     display: flex;
     align-items: baseline;
